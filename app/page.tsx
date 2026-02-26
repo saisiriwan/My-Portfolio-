@@ -80,7 +80,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="mb-12">
           <h1 className="text-5xl sm:text-6xl font-extrabold tracking-tight leading-none mb-2 text-[#0f172a] dark:text-white">Siriwan<br />Phoksanit</h1>
-          <h2 className="text-3xl sm:text-4xl font-semibold text-gray-800 dark:text-[#f8fafc] mb-4 tracking-tight">Full stack developer</h2>
+          <h2 className="text-3xl sm:text-4xl font-semibold text-gray-800 dark:text-[#f8fafc] mb-4 tracking-tight">Software developer</h2>
           <p className="text-lg text-gray-700 dark:text-[#94a3b8] leading-relaxed mb-6">
             Robust problem-solving skills, self-learning abilities, responsible, eager to learn new technologies.
           </p>
